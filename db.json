@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": "123",
+      "title": "How to think like a man",
+      "author": "Barack Obama"
+    },
+    {
+      "id": "456",
+      "title": "Half the yellow sun",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": "789",
+      "title": "Time to rise up again !",
+      "author": "Daniel Scofield"
+    },
+    {
+      "id": "765",
+      "title": "Joy in the morning",
+      "author": "Pastor EA Adeboye"
+    }
+  ]
+}
