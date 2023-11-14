@@ -4,8 +4,6 @@ const { nanoid } = require('nanoid');
 
 const idLength = 8;
 
-console.log({ nanoid: nanoid(idLength) })
-
 router.get('/', (req, res) => {
   const books = req.app.db.get('books');
 
